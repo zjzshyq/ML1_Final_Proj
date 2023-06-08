@@ -6,3 +6,6 @@
 4. feat.py is for feature engineering, do not need to run it manually.
 
 ### Classification
+1. please put the train, test csv and true y file into this dir first
+2. run FINALSCRIPT.r which contains everything needed.
+3. 
