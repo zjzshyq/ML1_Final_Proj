@@ -7,5 +7,5 @@
 
 ### Classification
 1. please put the train, test csv and true y file into this dir first
-2. run FINALSCRIPT.r which contains everything needed.
-3. 
+2. run FINALSCRIPT.R which contains everything needed.
+3. FINALPREDICTIONS.csv is the file with final predictions.

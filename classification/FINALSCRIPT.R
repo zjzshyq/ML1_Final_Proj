@@ -278,37 +278,7 @@ data_realtest_knn5_forecasts <- as.data.frame(data_realtest_knn5_forecasts)
 
 dim(Mdata_train_knn5_forecasts)
 
-SAMPLETEST <- read_csv("client_attrition_test.csv")
+file_path <- "FINALPREDICTIONS.csv"
 
-
-View(SAMPLETEST)
-
-SAMPLETEST$ACCOUNTSTATUS <- Mdata_train_knn5_forecasts
-
-View(SAMPLETEST)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Save the dataset as a CSV file
+write.csv(Mdata_train_knn5_forecasts, file = file_path, row.names = FALSE)
