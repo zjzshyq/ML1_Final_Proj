@@ -1,4 +1,8 @@
 ## ML1 Final Project 
+## team-member
+- Raffaele Ricci, K-15305
+- Yiqing Hu, 455858
+
 ### Regression
 1. please put the train, test csv and true y file into the regression dir first.
 2. run main.py to load training data, train it by GBM, and output the predected y.
