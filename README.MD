@@ -1,5 +1,5 @@
 ## ML1 Final Project 
-## team-member
+### Team
 - Raffaele Ricci, K-15305
 - Yiqing Hu, 455858
 
